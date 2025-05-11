@@ -1,4 +1,4 @@
-Hi 👋 My name is khaisya
+Hi 👋 My name is khaii
 ========================
 
 I like to make a projects with Arduino
